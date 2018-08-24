@@ -1,0 +1,16 @@
+.header{
+	position: fixed;
+  width: 100%;
+  top: 0;
+  z-index: 1090;
+  min-height: 64px;
+  padding: 12px 20px;
+  background-color: #1976d2;
+  display: flex;
+  flex-flow: row nowrap;
+  align-items: center;
+  color: #fff;
+}
+.logo{
+	height: 40px;
+}
